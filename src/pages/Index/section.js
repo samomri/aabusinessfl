@@ -17,7 +17,7 @@ const Section = () => {
               >
                 <h4 className="home-small-title">You don't have to be a tax expert</h4>
                 <h4 className="home-small-title">That's Our Job</h4>
-                <h1 className="home-title">A&A Business Solutions</h1>
+                <h1 className="home-title">A&A Business Services</h1>
                 <p className="pt-3 home-desc mx-auto">
                   Maecenas class semper class semper sollicitudin lectus lorem
                   iaculis imperdiet aliquam vehicula tempor auctor curabitur
