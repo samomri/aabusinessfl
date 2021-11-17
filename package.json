@@ -1,0 +1,33 @@
+{
+    "name": "ana-dev",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@babel/core": "^7.10.5",
+        "@babel/preset-env": "^7.10.4",
+        "@babel/preset-react": "^7.10.4",
+        "@testing-library/jest-dom": "^5.11.6",
+        "@testing-library/react": "^11.2.2",
+        "@testing-library/user-event": "^12.6.0",
+        "availity-reactstrap-validation": "^2.7.0",
+        "bootstrap": "^5.0.0-beta1",
+        "babel-loader": "^8.1.0",
+        "body-parser-json": "^1.9.2",
+        "axios": "^0.21.1",
+        "node-sass": "^4.14.1",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-modal-video": "^1.2.6",
+        "react-particles-js": "^3.4.1",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "4.0.1",
+        "react-sticky-header": "^0.2.0",
+        "react-text-rotator": "^1.0.1",
+        "reactstrap": "^8.8.0",
+        "webpack": "^4.44.0",
+        "webpack-cli": "^3.3.12"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
