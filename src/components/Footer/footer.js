@@ -13,24 +13,18 @@ const Footer = () => {
           title: "A & A Business Services",
           links: [
             { linkTitle: "Home", link: "#home" },
-            { linkTitle: "About us", link: "#about" },
           ],
         },
         {
           title: "Information",
           links: [
-            { linkTitle: "Terms & Condition", link: "#" },
-            { linkTitle: "About us", link: "#" },
-            { linkTitle: "Jobs", link: "#" },
-            { linkTitle: "Bookmarks", link: "#" },
+            { linkTitle: "About us", link: "#about" }
           ],
         },
         {
           title: "Support",
           links: [
-            { linkTitle: "FAQ", link: "#" },
-            { linkTitle: "Contact", link: "#" },
-            { linkTitle: "Disscusion", link: "#" },
+            { linkTitle: "Contact", link: "#contact" }
           ],
         },
       ],
@@ -51,7 +45,7 @@ const Footer = () => {
                     <ul className="list-unstyled footer-list">
                       {item.links.map((link, key) => (
                         <li key={key}>
-                          <Link to={link.link}>{link.linkTitle}</Link>
+                          <a href={link.link}>{link.linkTitle}</a>
                         </li>
                       ))}
                     </ul>
