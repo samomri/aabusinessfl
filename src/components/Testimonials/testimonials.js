@@ -12,19 +12,19 @@ const  Testimonials = () => {
     testimonials: [
       {
         id: 1,
-        image: "assets/images/team/1.svg",
-        name: "Jane Dow",
-        cmpName: "Company Name",
+        image: "assets/images/team/2.svg",
+        name: "Sam Omri",
+        cmpName: "quantaDevs - CEO",
         message:
-          "“Quote.”",
+          "“When it comes to accounting, I don't have to worry because A&A got my back.”",
       },
       {
         id: 2,
         image: "assets/images/team/2.svg",
-        name: "John Dow",
-        cmpName: "Company Name",
+        name: "Samir Najahi",
+        cmpName: "Shourouq Inc. - President",
         message:
-        "“Quote.”",
+        "“For more than 10 years A&A helped me and still help me on every aspect of my financial needs.”",
       },
       {
         id: 3,
@@ -44,7 +44,7 @@ const  Testimonials = () => {
             {/* Render section title */}
             <SectionTitle
               title="What they've said"
-              description="The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli."
+              description="Here is some feedback we recieved from our beloved clients."
             />
 
             <Row className="mt-5">

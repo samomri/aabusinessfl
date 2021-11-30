@@ -11,18 +11,17 @@ const Features = () => {
               <Col lg="5" className="order-2 order-lg-1">
                 <div className="features-box mt-5 mt-lg-0">
                   <h3>
-                    An Accounting Firm with Great Reputation 
+                    An Accounting Firm With A Great Reputation 
                   </h3>
-                  <p className="text-muted web-desc">
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics, a large language ocean.
-                  </p>
+                  {/* <p className="text-muted web-desc">
+                  Our philosophy is to treat your business like it’s our business.
+                  </p> */}
                   <ul className="text-muted list-unstyled mt-4 features-item-list">
-                    <li className="">We put a lot of effort in Accounting.</li>
+                    <li className="">We offer a variety of financial services.</li>
                     <li className="">
-                      The most important ingredient of successful Business.
+                      Our vast expertise allow us to have seasoned judgment, creativity, and effectiveness when it comes to your financial needs.
                     </li>
-                    <li className="">Submit Your Orgnization.</li>
+                    <li className="">Recognized by multiple businesses across Florida for our great client service.</li>
                   </ul>
                   <a
                     href="#services"

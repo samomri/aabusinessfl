@@ -10,19 +10,19 @@ import PricingBox from "./pricing-box";
 const Pricing = () => {
   let state = {
     pricings: [
-      {
-        id: 1,
-        title: "Economy",
-        price: "99.90",
-        duration: "MONTH",
-        features: {
-          bandwith: "1GB",
-          onlinespace: "50MB",
-          support: "No",
-          domain: "1",
-          hiddenFees: "No",
-        },
-      },
+      // {
+      //   id: 1,
+      //   title: "Economy",
+      //   price: "99.90",
+      //   duration: "MONTH",
+      //   features: {
+      //     bandwith: "1GB",
+      //     onlinespace: "50MB",
+      //     support: "No",
+      //     domain: "1",
+      //     hiddenFees: "No",
+      //   },
+      // },
       {
         id: 2,
         title: "DELUXE",
@@ -37,19 +37,19 @@ const Pricing = () => {
           hiddenFees: "No",
         },
       },
-      {
-        id: 3,
-        title: "ULTIMATE",
-        price: "299.90",
-        duration: "MONTH",
-        features: {
-          bandwith: "100GB",
-          onlinespace: "2GB",
-          support: "Yes",
-          domain: "Unlimited",
-          hiddenFees: "No",
-        },
-      },
+      // {
+      //   id: 3,
+      //   title: "ULTIMATE",
+      //   price: "299.90",
+      //   duration: "MONTH",
+      //   features: {
+      //     bandwith: "100GB",
+      //     onlinespace: "2GB",
+      //     support: "Yes",
+      //     domain: "Unlimited",
+      //     hiddenFees: "No",
+      //   },
+      // },
     ],
   };
     return (

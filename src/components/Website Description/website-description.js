@@ -12,8 +12,7 @@ const WebsiteDescription = () => {
               <Col lg="12" className="text-center">
                 <h2 className="text-white">Take Your Business To The Next level</h2>
                 <p className="pt-3 home-desc mx-auto">
-                  Discription and text filler said could convince her and so it didn’t
-                  take long until a few insidious Copy Writers ambushed her.
+                Our job is to treat your business like it’s our business.
                 </p>
                 {/* <a
                   href="#pricing"

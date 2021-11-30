@@ -13,7 +13,7 @@ const ContactUs = () => {
             {/* Render section title */}
             <SectionTitle
               title="Get In Touch"
-              description="We thrive when coming up with innovative ideas but also understand that a smart concept should be supported with measurable results."
+              description="Feel free to give us a visit or a call and for your convenience fill out the form below to ask a question or submit a request."
             />
 
             <Row>
@@ -26,7 +26,10 @@ const ContactUs = () => {
                       A&A Business Services Inc <br />
                       7751 Kingspointe Pkway Suite 125<br />
                       Orlando, FL 32819 <br />
-                      <a href="tel:+14074340235">(407) 434-0235</a>
+                      Cell:  <a href="tel:+14073837812">(407) 383-7812</a><br />
+                      Office:  <a href="tel:+14074340235">(407) 434-0235</a><br />
+                      Fax:  <a href="tel:+14074423668">(407) 442-3668</a><br />
+                      Email: <a href="mailto:aabusinessfl@yahoo.com">aabusinessfl@yahoo.com</a>
                     </span>
                   </p>
                   <p className="mt-4">

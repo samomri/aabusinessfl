@@ -43,14 +43,10 @@ const AboutUs  = () => {
             <Col lg={{ size: 8, offset: 2 }}>
               <div className="about-title mx-auto text-center">
                 <h2 className="font-weight-light">
-                  An acounting firm with a lot of experience{" "}
+                  Team{" "}
                 </h2>
                 <p className="text-muted pt-4">
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-                  natoque penatibus et magnis dis parturient montes, nascetur
-                  ridiculus mus donec various versions have evolved quam
-                  felis.
+                We work tirelessly to help you reach your financial goals.
                 </p>
               </div>
             </Col>

@@ -11,59 +11,59 @@ const Services = () => {
   let state = {
     services: [
       {
-        title: "Tax services",
-        icon: "pe-7s-diamond",
+        title: "Individual Tax Services",
+        icon: "pe-7s-graph1",
         description:
-          "Some other quick example text to build on the card title and make up the bulk of the card's content. Moltin gives you the platform.",
+          "Services provided for taxes levied on wages, salaries, dividends, interest, and other income earned throughout the year.",
       },
       {
-        title: "Business Advice",
+        title: "Corporate Tax Services",
         icon: "pe-7s-display2",
         description:
-          "Credibly brand standards compliant users without extensible services. Anibh euismod tincidunt ut laoreet Ipsum passage.",
+          "Tax Strategy Consultation and Tax Preparation for corporations.",
       },
       {
-        title: "Tax services",
-        icon: "pe-7s-piggy",
+        title: "Organizational Tax Structure Advice",
+        icon: "pe-7s-menu",
         description:
-          "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean necessary regelialia.",
+          "We will help you choose the right structure for your business and guide you through creating or restructuring it.",
       },
       {
-        title: "Tax services",
+        title: "Bookkeeping",
+        icon: "pe-7s-notebook",
+        description:
+          "We strive to help you run your business seamlessly, in the background, so you don’t have to worry.",
+      },
+      {
+        title: "Payroll",
         icon: "pe-7s-news-paper",
         description:
-          "It is a paradisematic country, in which roasted parts of sentences fly into your mouth leave for the far World.",
+          "After The Fact Payroll where We instruct you on how to compute a payroll check, The taxes are then calculated by us and all the monthly, quarterly, Yearly taxes are filed with the corresponding government agencies. Or we put you in contact with one of our payroll partners and they will do individuals' checks and filings.",
       },
-      {
-        title: "Tax services",
-        icon: "pe-7s-news-paper",
-        description:
-          "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.",
-      },
-      {
-        title: "Tax services",
-        icon: "pe-7s-piggy",
-        description:
-          "Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia.",
-      },
-      {
-        title: "Tax services",
-        icon: "pe-7s-news-paper",
-        description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
-      },
-      {
-        title: "Tax services",
-        icon: "pe-7s-tools",
-        description:
-          "Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.",
-      },
-      {
-        title: "Tax services",
-        icon: "pe-7s-timer",
-        description:
-          "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.",
-      },
+      // {
+      //   title: "Tax services",
+      //   icon: "pe-7s-piggy",
+      //   description:
+      //     "Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia.",
+      // },
+      // {
+      //   title: "Tax services",
+      //   icon: "pe-7s-news-paper",
+      //   description:
+      //     "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
+      // },
+      // {
+      //   title: "Tax services",
+      //   icon: "pe-7s-tools",
+      //   description:
+      //     "Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.",
+      // },
+      // {
+      //   title: "Tax services",
+      //   icon: "pe-7s-timer",
+      //   description:
+      //     "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.",
+      // },
     ],
   };
     
@@ -74,7 +74,7 @@ const Services = () => {
             {/* Render section title */}
             <SectionTitle
               title="Our Services"
-              description="Some quick example text to build on the card title and make up the bulk of the card's content. Moltin gives you the platform."
+              // description="Some quick example text to build on the card title and make up the bulk of the card's content. Moltin gives you the platform."
             />
 
             <Row className="mt-5">
