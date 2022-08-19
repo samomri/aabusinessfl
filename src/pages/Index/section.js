@@ -19,7 +19,7 @@ const Section = () => {
                 <h4 className="home-small-title">That's Our Job</h4>
                 <h1 className="home-title">A&A Business Services</h1>
                 <p className="pt-3 home-desc mx-auto">
-                Certified Public Accounting Firm.
+                Accounting, taxes and bookkeeping Company.
                 </p>
                 <p className=" mt-4 mb-4">
                   <a

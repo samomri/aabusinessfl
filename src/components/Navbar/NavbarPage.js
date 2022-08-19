@@ -54,7 +54,7 @@ const Navbar_Page = (props) => {
                     <Nav className="navbar-right" navbar>
                       <NavItem>
                         
-                          <NavLink href={"/login"}> <Button type="button" className="btn btn-primary navbar-btn btn-rounded waves-effect waves-light">
+                          <NavLink href={"http://45.55.54.37:8080"}> <Button type="button" className="btn btn-primary navbar-btn btn-rounded waves-effect waves-light">
                           Login
                         </Button></NavLink>
                       </NavItem>
